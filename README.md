@@ -1,0 +1,2 @@
+# Interpolation_Algorithms
+Implement simple interpolation algorithms
